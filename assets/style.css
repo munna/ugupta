@@ -14,3 +14,8 @@
     width: 960px;
 }
 }
+@media only screen and (max-width: 400px)  {
+    .publication-item {
+        width: 50%;
+    }
+    }
