@@ -10,7 +10,7 @@
     display: inline-block;
 }
 .news li div {
-    width: 130px;
+    width: 90px;
     font-weight: bold;
     display: inline-block;
 }
@@ -32,4 +32,4 @@
     .desktop-only {display: none;}
     }
 
-    
+
