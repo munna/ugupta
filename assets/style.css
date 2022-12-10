@@ -32,4 +32,15 @@
     .desktop-only {display: none;}
     }
 
+    @media only screen and (max-width: 600px)  {
+        .publication-item {
+            width: 100%;
+        }
+        .mobile-xs {
+            padding-top: 100px !important;
+        }
+        .mobile-only {display: inline !important; float: right;}
+        .desktop-only {display: none;}
+        }
     
+        
